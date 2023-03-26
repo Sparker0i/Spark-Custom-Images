@@ -1,0 +1,5 @@
+{
+  "docker_build":{
+    "prod":{"tag":"sis-datamaze-quay.sis-operations-prod-665928ed0d217537ce7ae6f03961fb79-0000.us-south.containers.appdomain.cloud/datablocks/spark-image-custom:3.1.3"}
+  }
+}
